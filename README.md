@@ -1,4 +1,4 @@
-# Loomworks — Garment POS
+# Garment POS
 
 A frontend-only Point-of-Sale & operations console for a garment manufacturing /
 wholesale business. All data is mock/static (in-memory) — no backend required.
